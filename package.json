@@ -1,0 +1,8 @@
+{
+  "name": "basa_tma",
+  "version": "0.1.0",
+  "main": "assets/js/index.js",
+  "module": "assets/js/index.js",
+  "type": "module",
+  "private": true
+}

@@ -1,0 +1,12 @@
+/* Inside the Telegram Mini App (the script sets data-telegram on <html>).
+   telegram-web-app.js provides the --tg-theme-* colours of the user's theme. */
+html[data-telegram],
+html[data-telegram] body {
+  background-color: var(--tg-theme-bg-color);
+  color: var(--tg-theme-text-color);
+}
+
+/* Telegram decides light or dark: hide the app's own switch */
+html[data-telegram] [data-theme-switch] {
+  display: none;
+}
