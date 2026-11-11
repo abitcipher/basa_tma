@@ -1,9 +1,7 @@
-# basa_tma
+# BASA TMA - Telegram Mini App for [BASA](https://github.com/abitcipher/basa)
 
 Telegram Mini App toolkit for Phoenix applications. It was built for
-[BASA](https://github.com/abitcipher/basa) and knows nothing about BASA's
-data, so it works in any Phoenix + LiveView application with an
-[ExGram](https://github.com/rockneurotiko/ex_gram) bot.
+[BASA](https://github.com/abitcipher/basa) and knows nothing about BASA's data, so it works in any Phoenix + LiveView application with an [ExGram](https://github.com/rockneurotiko/ex_gram) bot.
 
 What is inside:
 
